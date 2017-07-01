@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/tparker00/Vision/lookup"
-	v "github.com/tparker00Vision/types"
+	v "github.com/tparker00/Vision/types"
 
 	"github.com/vmware/govmomi"
 	"github.com/vmware/govmomi/event"
