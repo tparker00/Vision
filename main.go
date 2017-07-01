@@ -1,14 +1,15 @@
 package main
 
 import (
-	"Vision/events"
-	v "Vision/types"
 	"context"
 	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
 	"strings"
+
+	"github.com/tparker00Vision/events"
+	v "github.com/tparker00Vision/types"
 
 	"github.com/labstack/echo"
 )
