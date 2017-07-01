@@ -1,0 +1,5 @@
+username: serviceAccount
+password: secret-password
+dnsserver: 192.168.1.1
+domain: mydomain.com
+
