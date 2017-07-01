@@ -8,6 +8,8 @@ import (
 	"os"
 	"strings"
 
+	yaml "gopkg.in/yaml.v2"
+	
 	"github.com/tparker00/Vision/events"
 	v "github.com/tparker00/Vision/types"
 
