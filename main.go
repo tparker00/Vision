@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tparker00Vision/events"
-	v "github.com/tparker00Vision/types"
+	"github.com/tparker00/Vision/events"
+	v "github.com/tparker00/Vision/types"
 
 	"github.com/labstack/echo"
 )
